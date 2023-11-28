@@ -10,7 +10,7 @@ public class Main4 {
             String input = scanner.nextLine();
 
             if (input.equals(":q")) {
-                System.out.println("Programma terminato.");
+                System.out.println("Fine");
                 break;
             }
         }
