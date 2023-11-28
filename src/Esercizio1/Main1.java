@@ -1,8 +1,6 @@
 package Esercizio1;
 
 public class Main1 {
-
-
     public static void main(String[] args) {
         String parola = "ciaone";
 
